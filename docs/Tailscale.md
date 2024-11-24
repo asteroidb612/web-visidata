@@ -7,7 +7,7 @@
 **When all set:**
 - Log in with your Tailscale credentials.
 - Go back to the WebVM tab.
-- The `Connect to Tailscale` button in the Networking side-panel should be replaced by your IP address.
+- `Connect via Tailscale` should be replaced by your IP address.
 
 # Log in to Tailscale with an Auth key
 
